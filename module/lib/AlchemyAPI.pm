@@ -1553,7 +1553,7 @@ Orchestr8, <questions@alchemyapi.com>
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright (C) 20.10-2010 Orchestr8, LLC.
+Copyright (C) 2009-2014 Orchestr8, LLC.
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself, either Perl version 5.8.0 or,
