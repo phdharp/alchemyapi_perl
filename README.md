@@ -1,5 +1,5 @@
 ==================================
- AlchemyAPI Perl SDK: version 0.9
+ AlchemyAPI Perl SDK: version 0.10
 ==================================
 
 This is a Perl implementation of the AlchemyAPI SDK.
